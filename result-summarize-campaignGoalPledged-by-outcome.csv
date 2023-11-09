@@ -1,0 +1,10 @@
+Original,,,
+avg_goal_successful,avg_pledged_successful,avg_goal_failed,avg_pledged_failed
+9975.664589,23117.09122,101653.0035,1527.992785
+,,,
+Modded,,,
+,goal,pledged,
+successful,9975.7,23117.1,
+failed,101653.0,1528.0,
+Difference (%),919.0098369,-93.39020308,
+Difference ($),91677.3,-21589.1,
